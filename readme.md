@@ -1,3 +1,3 @@
 ## Das ist ein Test ##
 
-[Link](https://help.peakboard.com/broken_link)
+[Link](https://help.peakboard.com/dead_link)
