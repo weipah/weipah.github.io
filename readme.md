@@ -1,3 +1,5 @@
 ## Das ist ein Test ##
 
-[Link](https://help.peakboard.com/dead_link)
+[Dead-Link](https://help.peakboard.com/dead_link)
+
+[Test-Link](/test)
